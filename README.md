@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjayManikantaG
-- 👀 I’m interested in writing unwanted code and refactoring later
+- 👀 I’m interested in writing unwanted code and refactoring later 🤣
 - 🌱 I’m currently learning UI/UX design
 - 💞️ I’m looking to collaborate on big projects with technologies like React, Node, Angular. 
 - 📫 Reach me at "ajay.vijay1123@gmail.com"
