@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @AjayManikantaG
+<!-- - 👋 Hi, I’m @AjayManikantaG
 - 👀 I’m interested in writing unwanted code and refactoring later 🤣
 - 🌱 I’m currently learning UI/UX design
 - 💞️ I’m looking to collaborate on big projects with technologies like React, Node, Angular. 
-- 📫 Reach me at "ajay.vijay1123@gmail.com"
-
+- 📫 Reach me at "ajay.vijay1123@gmail.com" -->
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
